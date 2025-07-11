@@ -1,0 +1,21 @@
+Day 3: Chain-of-Thought (CoT) Prompting
+
+Focus: Implementing Chain-of-Thought prompting for complex reasoning.
+
+Task:
+Learn about the benefits of CoT for multi-step problems through video demonstrations.
+Craft prompts that encourage the LLM to "think step-by-step" before providing a final answer.
+Apply CoT to a simple problem requiring logical deduction.
+
+Resources:
+Video Course: DeepLearning.AI: "Prompt Engineering for Developers" (Lesson 4: "Summarizing" & Lesson 5: "Inferring" - These lessons show how to guide the model's thought process)
+YouTube: "What is Chain-of-thought prompting in Generative AI?" by Eye on Tech
+
+
+Quiz:
+How does Chain-of-Thought prompting improve LLM performance on complex tasks? 
+R: By utilizing different types of CoT prompting (multimodal, least-to-most, zero-shot) you can lead the LLM to effectively answering complex questions.
+
+Provide a short prompt that encourages CoT.
+R: A D&D party encounters a locked door with a magical riddle:
+ "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?". The Wizard wants to solve it to avoid triggering a trap.
